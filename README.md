@@ -36,7 +36,7 @@ Usage
 
 bash
 
-git clone https://github.com/yourusername/loto-prediction-ai.git
+git clone https://github.com/ProfesseurFalken/loto_Ai_Prediction-ai.git
 cd loto-prediction-ai
 
     Run the script:
