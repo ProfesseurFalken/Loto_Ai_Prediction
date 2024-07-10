@@ -36,14 +36,14 @@ Usage
 
 bash
 
-git clone https://github.com/ProfesseurFalken/loto_Ai_Prediction-ai.git
+git clone https://github.com/ProfesseurFalken/Loto_Ai_Prediction-ai.git
 cd loto-prediction-ai
 
     Run the script:
 
 bash
 
-python Main_v2.py
+python main.py
 
 The script will scrape the latest lottery data, process it, train the LSTM model, and output the predicted numbers.
 Features
