@@ -51,7 +51,6 @@ Features
     Web Scraping: Scrapes historical lottery data from the web.
     Feature Engineering: Creates additional features from the raw lottery data to enhance model performance.
     LSTM Model: Uses an LSTM network to predict the next set of lottery numbers.
-    Bidirectional LSTM and Autoencoder: Includes definitions for more complex models.
     Model Checkpointing: Saves the best model during training.
     Prediction: Outputs predicted lottery numbers.
 
