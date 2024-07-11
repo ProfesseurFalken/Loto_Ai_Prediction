@@ -221,7 +221,7 @@ def create_lstm_dataset(df, window_length, nb_label_feature):
 
     return train, label, scaler
 
-# Assuming df is your preprocessed DataFrame
+# preprocessed DataFrame
 train, label, scaler1 = create_lstm_dataset(df, window_length, nb_label_feature)
 
 # Check if a saved model exists
